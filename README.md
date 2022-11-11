@@ -11,4 +11,4 @@ This is an ecommerce appilcation build as microservice architecture containing :
       * Vault Config( Secrets Management )
       * Web Frontend : Angular client
  
- Technology used : Java 17, Spring Boot 2.7.5 , Spring Date Jpa, Spring Data Rest, Spring Cloud Config,Spring Cloud Consul discovery, Spring Cloud Gateway, Actuator, H2 database
+ Technology used : Java 17, Spring Boot 2.7.5 , Spring Date Jpa, Spring Data Rest, Spring Cloud Config,Spring Cloud Consul discovery, Spring Cloud Gateway, Actuator, H2 database , lombok ....
